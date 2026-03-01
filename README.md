@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on computer vision and pattern recognition field
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 
-#### My papers(2) include:
+#### My papers(3) include:
 - [CVPR26] End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer
 
 - [[TTE]](https://ieeexplore.ieee.org/document/10962264) Wavelet Transformer-Based Multi-Channel and Multi-Resolution Information Perceptron for Lithium-ion Battery State of Health Estimation
