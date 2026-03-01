@@ -7,9 +7,12 @@
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 
 #### My papers(2) include:
+-[CVPR26] End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer
+
 - [[TTE]](https://ieeexplore.ieee.org/document/10962264) Wavelet Transformer-Based Multi-Channel and Multi-Resolution Information Perceptron for Lithium-ion Battery State of Health Estimation
 
 - [[TIM]](https://ieeexplore.ieee.org/document/10198842) Convolutional Transformer-Based Multiview Information Perception Framework for Lithium-Ion Battery State-of-Health Estimation
+
 <!---
 HinokiBAI/HinokiBAI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
