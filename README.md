@@ -1,8 +1,8 @@
 #### Hello!
 - 👋 I’m @Bai Tianyou
 - 👀 I’m interested in AI4Science and LVLM
-- 🌱 I’m currently learning CS in Chinese Academy of Sciences
-- 👷🏻 I'm working on multimodal artificial intelligence in the PAL group (https://nlpr.ia.ac.cn/pal/) and National Key Laboratory of Multimodal Artificial Intelligence (https://ia.cas.cn/)
+- 🌱 I’m currently learning CS in Chinese Academy of Sciences (https://ia.cas.cn/)
+- 👷🏻 I'm working on multimodal artificial intelligence in the PAL group (https://nlpr.ia.ac.cn/pal/) and National Key Laboratory of Multimodal Artificial Intelligence (https://mais.ia.ac.cn/)
 - 💞️ I’m looking to collaborate on computer vision and pattern recognition field
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 
