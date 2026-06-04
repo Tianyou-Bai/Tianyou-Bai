@@ -7,7 +7,7 @@
 - 📫 How to reach me send email to baitianyou.hnk@gmail.com
 
 #### My papers(3) include:
-- [CVPR26] End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer
+- [[CVPR26]](https://openaccess.thecvf.com/content/CVPR2026/html/Bai_End-to-End_Hyper-Relational_Information_Extraction_for_Engineering_Diagrams_via_Dynamically_Tokenized_CVPR_2026_paper.html) End-to-End Hyper-Relational Information Extraction for Engineering Diagrams via Dynamically Tokenized Relation Transformer
 
 - [[TTE]](https://ieeexplore.ieee.org/document/10962264) Wavelet Transformer-Based Multi-Channel and Multi-Resolution Information Perceptron for Lithium-ion Battery State of Health Estimation
 
